@@ -58,15 +58,25 @@ PROJECT STRUCTURE
 ------------------------------------------------------------
 
 wanderstay/
+
 ├── app/                 -> Routing and layout using Next.js App Router
-├── components/          -> Reusable UI components
+
+├── components/          -> Reusable UI components 
+
 ├── lib/                 -> Helper functions and configs
+
 ├── public/              -> Static images and files
+
 ├── styles/              -> Tailwind CSS global styles
+
 ├── types/               -> Custom TypeScript types
+
 ├── .env.local           -> Local environment variable definitions
+
 ├── tailwind.config.ts   -> Tailwind customization config
+
 ├── next.config.js       -> Next.js configuration
+
 └── readme.me            -> You're here!
 
 ------------------------------------------------------------
